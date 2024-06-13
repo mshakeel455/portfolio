@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.team{
+margin-top:300px;
+}
+.famliy{
+    font-size: 70px;
+}
+.mens{
+width: 150px;
+}
+.icons{
+    display: flex;
+    gap: 10px;
+}
+.ico{
+    width: 30px;
+}
+.blog h1{
+    font-size: 70px ;
+    font-weight: 600;
+}
+.brow{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.header{
+    font-size: 70px ;
+    font-weight: 600;
+}
+.sign-up-form{
+
+    border-radius: 20px;
+}
+.tickimg{
+    width: 30px;
+}
+.img40{
+    width: 40px;
+}
+.menpic{
+    width: 50px;
+}
+.laptoppic{
+    width: 60px;
+}
+.trroly{
+    width: 60px;
+}
+.compressor{
+    width: 50px;
+}
+.paint{
+    width: 60px;
+}
+.hrefgreen{
+    color: #0F9620;
+}
+.hrefgreen{
+    color: #32DBC6;
+}
+.h4gray{
+    color: #B3B3B3;
+}
+.inputf{
+width: 300px;
+height: 50px;
+border-radius: 20px;
+}
+.inpute{
+    width: 600px;
+    height: 50px;
+    border-radius: 20px;
+}
+.button{
+    padding: 15px 30px;
+    background-color: #32DBC6;
+    color: white;
+    border-radius: 30px;
+}
+.roww{
+    padding: 70px 30px;
+    background-color: #32DBC6;
+}
+.pgray{
+    color: #a39e9eec;
+}
+.pgreen{
+    color: #0F9620;
+}
+.puzal{
+    width: 60px;
+}
+.background-img{
+    background-image: url("My\ pic.jpeg");
+    height: 200dvh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.textt{
+    position: relative;
+    top: 40%;
+    left: 25%;
+}
+.button2{
+    border-radius: 30px;
+    padding: 15px 25px;
+    border: none;
+}
+.coloring{
+    background-color: #ebe5e5;
+}
